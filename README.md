@@ -1,4 +1,5 @@
-##Installation instructions
+Installation instructions
+
 ### 1. ENV
    1. .env is already configured. No need to do anything here. Change APP_NAME and APP_URL for customization
 
