@@ -4,14 +4,15 @@
 
 ### 2. Database
     1. For simplicity sake, I chose SQLite. Only thing needed is to create database.sqlite in /database folder (if not create already)
-    2. Run command: `php artisan migrate` for database setup
+    2. Run command for database setup
+        `php artisan migrate`
     3. You are done with database!
     
 ### 3. Install dependecies
     `composer install`
 
 ### 3. Start laravel
-    1. `php artisan serve`
+    `php artisan serve`
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
