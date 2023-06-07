@@ -8,7 +8,7 @@
     3. You are done with database!
     
 ### 3. Install dependecies
-    1. `composer install`
+    `composer install`
 
 ### 3. Start laravel
     1. `php artisan serve`
