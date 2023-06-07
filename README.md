@@ -14,6 +14,9 @@ Installation instructions
 ### 3. Start laravel
     php artisan serve
 
+Dedailed documentation on: https://noyra-cloud.notion.site/noyra-cloud/Projektov-dokumentace-logistick-aplikace-f123e53b0cce4d9db7bbe72121a8113e
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
